@@ -1,6 +1,9 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
 <h3 align="center">A passionate Data Analyst/Engineer/Scientists from India</h3>
+<p align="left"> <a href="https://twitter.com/de_parthaa" target="blank"><img src="https://img.shields.io/twitter/follow/de_parthaa?logo=twitter&style=for-the-badge" alt="de_parthaa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthadee&label=Profile%20views&color=0e75b6&style=flat" alt="parthadee" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on [Data Analytics-PwC](https://parthadee.github.io/Data-Analytics-PwC-/)
@@ -46,9 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthadee&show_icons=true&locale=en" alt="parthadee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthadee&" alt="parthadee" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthadee&label=Profile%20views&color=0e75b6&style=flat" alt="parthadee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthadee" alt="parthadee" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/de_parthaa" target="blank"><img src="https://img.shields.io/twitter/follow/de_parthaa?logo=twitter&style=for-the-badge" alt="de_parthaa" /></a> </p>
 
