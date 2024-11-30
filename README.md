@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
 <h3 align="center">A passionate Data Analyst/Engineer/Scientists from India</h3>
 
