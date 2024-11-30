@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/de_parthaa" target="blank"><img src="https://img.shields.io/twitter/follow/de_parthaa?logo=twitter&style=for-the-badge" alt="de_parthaa" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZwbHF5NGE0ZHo2bHhwYXA1N3J6dXAxYTY1ZzBmZXhzNmh1d294dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
 
 - 🔭 I’m currently working on [Data Analytics-PwC](https://parthadee.github.io/Data-Analytics-PwC-/)
 
