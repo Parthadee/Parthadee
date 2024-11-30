@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
 <h3 align="center">A passionate Data Analyst/Engineer/Scientists from India</h3>
-<img align="right" alt="Coding" width="400" src="<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthadee&label=Profile%20views&color=0e75b6&style=flat" alt="parthadee" /> </p>
 
