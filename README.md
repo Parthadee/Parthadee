@@ -10,21 +10,21 @@
 
 - 🔭 I’m currently working on [Data Analytics-PwC](https://parthadee.github.io/Data-Analytics-PwC-/)
 
-- 🌱 I’m currently learning **Python , Power BI , PySpark**
+- 🌱 I’m currently learning **Python , Power BI , SQL , AWS**
 
-- 👯 I’m looking to collaborate on [Govt.of MoF Data Analytics](https://parthadee.github.io/Sales-Analysis/)
+- 👯 I’m looking to collaborate on [Data-Scraper](https://parthadee.github.io/Data-Scraper/)
 
-- 🤝 I’m looking for help with [Stock-prediction](https://parthadee.github.io/stock-prediction/)
+- 🤝 I’m looking for help with [Healthcare-Research](https://parthadee.github.io/Healthcare-Research/)
 
 - 👨‍💻 All of my projects are available at [https://parthadee.github.io/Portfolio/](https://parthadee.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://draft.blogger.com/u/2/blog/posts/1366058771024669841?hl=en&tab=jj](https://draft.blogger.com/u/2/blog/posts/1366058771024669841?hl=en&tab=jj)
+- 📝 I regularly write articles on [https://x.com/de_parthaa](https://x.com/de_parthaa)
 
-- 💬 Ask me about **Python , SQL**
+- 💬 Ask me about **Python , SQL , AWS , Power BI , Web Technology, Java**
 
 - 📫 How to reach me **parthakrde@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11H4Wr0Y3i4p4P4Rr36akkVV5Ug9dfr2H/view?usp=sharing](https://drive.google.com/file/d/11H4Wr0Y3i4p4P4Rr36akkVV5Ug9dfr2H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KM3TU9Bz1610xjzRoZd1xm2nqR-nk0oc/view?usp=sharing](https://drive.google.com/file/d/1KM3TU9Bz1610xjzRoZd1xm2nqR-nk0oc/view?usp=sharing)
 
 - ⚡ Fun fact **I am interesting Funny guy**
 
