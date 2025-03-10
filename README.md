@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Data-Scraper](https://parthadee.github.io/Data-Scraper/)
 
-- 🤝 I’m looking for help with [Machine-Learning-for-Predicting-Cardiovascular-Diseases-Challenges-Opportunities](https://github.com/Parthadee/Machine-Learning-for-Predicting-Cardiovascular-Diseases-Challenges-Opportunities.git)
+- 🤝 I’m looking for help with [Deep-Learning-for-Heart-Disease-Diagnosis-Enhancing-Accuracy-in-Healthcare](https://github.com/Parthadee/Deep-Learning-for-Heart-Disease-Diagnosis-Enhancing-Accuracy-in-Healthcare.git)
 
 - 👨‍💻 All of my projects are available at [https://parthadee.github.io/Portfolio/](https://parthadee.github.io/Portfolio/)
 
