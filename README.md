@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python , Power BI , SQL , AWS**
 
-- 👯 One of my favorite completed projects [Trading Performance Analytics: Evaluating Binance Accounts](https://github.com/Parthadee/Binance-Trading-Analysis.git)
+- 👯 One of my favorite completed projects [Trading Analytics: Performance Evaluation of Binance Accounts](https://github.com/Parthadee/Binance-Trading-Analysis.git)
 
 - 🤝 My Research Thesis is about [AI in Healthcare of Heart Disease](https://github.com/Parthadee/Research-in-AI-IN-HEALTHCARE-OF-HEART-DISEASE.git)
 
