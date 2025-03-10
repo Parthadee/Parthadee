@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Data-Scraper](https://parthadee.github.io/Data-Scraper/)
 
-- 🤝 I’m looking for help with [Research in AI IN HEALTHCARE OF HEART DISEASE](https://github.com/Parthadee/Research-in-AI-IN-HEALTHCARE-OF-HEART-DISEASE.git)
+- 🤝 My Research Thesis is about [AI in Healthcare of Heart Disease](https://github.com/Parthadee/Research-in-AI-IN-HEALTHCARE-OF-HEART-DISEASE.git)
 
 - 👨‍💻 All of my projects are available at [https://parthadee.github.io/Portfolio/](https://parthadee.github.io/Portfolio/)
 
