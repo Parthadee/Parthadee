@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
 
-- 🔭 I’m currently working on [Brainwave Matrix Solutions - Data Science/ Data Analytics]([https://parthadee.github.io/Data-Analytics-PwC-/](https://github.com/Parthadee/Binance-Trading-Analysis.git))
+- 🔭 I’m currently working on [Brainwave Matrix Solutions - Data Science/ Data Analytics](https://github.com/Parthadee/Binance-Trading-Analysis.git)
 
 - 🌱 I’m currently learning **Python , Power BI , SQL , AWS**
 
