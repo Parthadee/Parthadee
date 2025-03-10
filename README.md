@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on analyst project at [Brainwave Matrix Solutions in Data Science/ Data Analytics](https://github.com/Parthadee/Binance-Trading-Analysis.git)
 
-- 🌱 I’m currently learning **Python , Power BI , SQL , AWS**
+- 🌱 I’m currently learning **Python, AWS**
 
 - 👯 One of my favorite completed projects [Trading Analytics: Performance Evaluation of Binance Accounts](https://github.com/Parthadee/Binance-Trading-Analysis.git)
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://x.com/de_parthaa](https://x.com/de_parthaa)
 
-- 💬 Ask me about **Python , SQL , AWS , Power BI , Web Technology, Java**
+- 💬 Ask me about **Python , SQL , Power BI , Web Technology, Java**
 
 - 📫 How to reach me **parthakrde@gmail.com**
 
