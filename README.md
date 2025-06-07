@@ -48,7 +48,7 @@
 <a href="https://www.leetcode.com/parthakrde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthakrde" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@parthade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@parthade" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parthokrdey97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthokrdey97" height="30" width="40" /></a>
-<a href="https://discord.gg/data_with_parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="data_with_parth" height="30" width="40" /></a>
+<a href="https://discord.gg/593797909879717897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="593797909879717897" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
