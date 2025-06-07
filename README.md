@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Parthadee/Parthadee/blob/ba7da4df96b04bad13f5a796a0bc7f67bfdfd02b/Data%20Analyst.png)
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
-<h3 align="center">A passionate Data Analyst/Engineer/Scientists from India 🇮🇳</h3>
+<h3 align="center">A passionate Data Analyst | Machine Learning & AI | Cloud Technologies from India 🇮🇳</h3>
 
 <p align="center">
   <a href="https://twitter.com/de_parthaa" target="_blank"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter"></a>
