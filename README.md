@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+![MasterHead](https://github.com/Parthadee/Parthadee/blob/ba7da4df96b04bad13f5a796a0bc7f67bfdfd02b/Data%20Analyst.png)
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
 <h3 align="center">A passionate Data Analyst/Engineer/Scientists from India</h3>
 
