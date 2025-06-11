@@ -96,7 +96,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Food-Industry-Analyze" /></a>
 </div>
 
-<!-- Animated Wave Effect -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler&type=horizontal&theme=dark" />
+</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
