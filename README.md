@@ -18,8 +18,7 @@
 
 ---
 ### 👨‍💻 About Me
-
-- 🔨 I’m currently working on a [Research Thesis paper](https://github.com/Parthadee/AI-in-Healthcare-of-Heart-Disease.git)
+- 🔨 I am currently working on a personal project titled [Research in Heart Disease Prediction Using AI (Computer Vision)](https://github.com/Parthadee/AI-in-Healthcare-of-Heart-Disease.git)
 
 - 🔭 Data Science & Analytics Intern at Brainwave Matrix Solutions
   
