@@ -91,6 +91,16 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=parthadee" alt="Top Project Contributions" />
 </div>
+
+<h3>🚀 Featured Security Projects</h3>
+
+<div align="center">
+  <a href="https://github.com/parthadee/AI-in-Healthcare-of-Heart-Disease">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=AI-in-Healthcare-of-Heart-Disease" /></a>
+  <a href="https://github.com/parthadee/Diwali-Sales-Analysis-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Diwali-Sales-Analysis-Prediction" /></a>
+</div>
+
 <!-- Animated Wave Effect -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
