@@ -33,6 +33,10 @@
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/197TsW6CAGiwnjbIRZFB86NQIqIjwYQix/view?usp=sharing**
 
+<div align="center">
+  <a href="https://github.com/parthadee/Diwali-Sales-Analysis-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Diwali-Sales-Analysis-Prediction" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -90,15 +94,6 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=parthadee" alt="Top Project Contributions" />
-</div>
-
-<h3>🚀 Featured Security Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/parthadee/AI-in-Healthcare-of-Heart-Disease">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=AI-in-Healthcare-of-Heart-Disease" /></a>
-  <a href="https://github.com/parthadee/Diwali-Sales-Analysis-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Diwali-Sales-Analysis-Prediction" /></a>
 </div>
 
 <!-- Animated Wave Effect -->
