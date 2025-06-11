@@ -11,7 +11,7 @@
   <a href="mailto:parthakrde@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
+<img align="right" alt="Coding" width="460" src="https://camo.githubusercontent.com/f1acc9fbc7413f5efbd0c775a79046d1a291042b4d0cab54f8109f0a893e6799/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
 
 ---
 <h6 align="center">Hello, I am Partha Dey, Final-year Master of Computer Application (MCA) student at Brainware University, passionate about leveraging data, technology, and user-centric design to build innovative solutions. Eager to apply academic knowledge and hands-on skills to create meaningful impact through data-driven and technology-enabled approaches. Actively seeking opportunities to contribute to projects that combine creativity, usability, and impactful results</h6>
