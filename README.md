@@ -1,7 +1,10 @@
 # <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
-<h3 align="center">A passionate Data Analyst | Machine Learning & AI | Cloud Technologies from India 🇮🇳</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=100&lines=I'm+passionate+about+Data+Analysis,;Machine+Learning+%26+Artificial+Intelligence,;Cloud+Technologies+from+India+🇮🇳" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <a href="https://twitter.com/de_parthaa" target="_blank"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/parthakrdey" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
