@@ -34,8 +34,10 @@
 - 📄 Know about my experiences **https://drive.google.com/file/d/197TsW6CAGiwnjbIRZFB86NQIqIjwYQix/view?usp=sharing**
 
 <div align="center">
-  <a href="https://github.com/parthadee/Diwali-Sales-Analysis-Prediction">
+   <a href="https://github.com/parthadee/Diwali-Sales-Analysis-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Diwali-Sales-Analysis-Prediction" /></a>
+  <a href="https://github.com/Parthadee/Food-Industry-Analyze">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthadee&repo=Food-Industry-Analyze" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
