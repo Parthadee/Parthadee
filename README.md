@@ -4,7 +4,7 @@
   <a href="https://twitter.com/de_parthaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/parthakrdey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:parthakrde@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="Data Analyst/Partha_Dey_Resume_25.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Resume"></a>
+  <a href="https://github.com/Parthadee/Resume-Files/blob/bfd5c30339ea605e59946839e90973c2a28b45b4/Data%20Analyst/Partha_Dey_Resume_25.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=brightgreen" alt="Resume"></a>
 </p>
 
 ---
