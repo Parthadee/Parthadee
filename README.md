@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="Top Divider" />
+</p>
 <h1 align="center">👋Hey there, I’m so glad you’re here!</h1>
-
 <p align="center">
   <a href="https://twitter.com/de_parthaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230f1419?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/parthakrdey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
